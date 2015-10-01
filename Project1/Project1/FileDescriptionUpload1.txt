@@ -1,0 +1,52 @@
+Alabama	1597-NI	Life Insurance Buyer's Guide
+Alabama	2946-D	Lifetime Advantage Acceptance & Disclosure Statement
+Alabama	3066	Surrender Request Form (Internal Replacement) Form 3066
+Alabama	3068	Corporate Authorization Form and Idemnification Agreement
+Alabama	4030	Authorization Agreement for Direct Payments (ACH Debits) Use to authorize direct payments from the account of your choice to make a purchase or premium payment on your policy/contract. This form may be returned via fax.
+Alabama	4035-TIA	Temporary Life Insurance Agreement - Electronic Debit Authorization to Bind Coverage Form 4035-TIA 8/13
+Alabama	6133-A&B-AL	Scuba/Skin Diving/Mountain Climbing Application (For use in AL)
+Alabama	6230	Companion Case Transmittal
+Alabama	6237	List Billing Transmittal
+Alabama	6241	Questionnaire: Foreign Residence and Travel
+Alabama	6256-A&B-AL	Aviation/Racing Questionnaire (For use in AL)
+Alabama	6257-A&B-AL	Ballooning/Hang Gliding/Ultralight/Skydiving/Parachuting Questionnaire (For use in AL)
+Alabama	6404	HIV Testing Informed Consent
+Alabama	6415	USA PATRIOT Act Compliance Form Per federal regulations, complete for each Annuitant/Insured; and if different than the Annuitant/Insured, for each owner, payor and assignee. This form is also required on all beneficiaries when a claim is filed. This form needs to be completed for an individual owners when requesting an ownership change or when adding an owner. An original copy is required. Please return via mail.
+Alabama	6420-AL	Life Insurance Application For use in AL Effective 5/13
+Alabama	6437	Trustee Certification
+Alabama	6482-STD	Verification of Existing Life Insurance or Annuities This form may be used for annuity product sales in some states. This form may be used with Form 6605 in some states.
+Alabama	6486-STD	Important Notice: Replacement of Life Insurance or Annuities
+Alabama	6491	Application Submittal Checklist
+Alabama	6500	Military Supplement to Application
+Alabama	6501	Application Overflow Page
+Alabama	9302	Assignment of Life Insurance Policy as Collateral Use to assign your policy as collateral. Form can be used in all states.
+Alabama	9334	Tax Treatment of "Modified Endowment Contract" (Inforce)
+Alabama	W-8BEN-E	FATCA Form W-8BEN-E Foreign Account Tax Compliance Act - form for use with non-U.S. entities
+Alabama	W-8BEN	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Alabama	W-8ECI	FATCA Form W-8ECI Foreign Account Tax Compliance Act - form for use with non-US entities
+Arizona	1597-I	Life Insurance Buyer's Guide
+Arizona	2946_D.pdf	Lifetime Advantage Acceptance & Disclosure Statement
+Arizona	3066	Surrender Request Form (Internal Replacement) Form 3066
+Arizona	3068	Corporate Authorization Form and Idemnification Agreement
+Arizona	4030	Authorization Agreement for Direct Payments (ACH Debits) Use to authorize direct payments from the account of your choice to make a purchase or premium payment on your policy/contract. This form may be returned via fax.
+Arizona	4035-TIA	Temporary Life Insurance Agreement - Electronic Debit Authorization to Bind Coverage Form 4035-TIA 8/13
+Arizona	6133-A_B_C.pdf	Scuba/Skin Diving/Mountain Climbing Application (For use in AL)
+Arizona	6230.pdf	Companion Case Transmittal
+Arizona	6237	List Billing Transmittal
+Arizona	6241.pdf	Questionnaire: Foreign Residence and Travel
+Arizona	6256	Aviation/Racing Questionnaire (For use in AL)
+Arizona	6257	Ballooning/Hang Gliding/Ultralight/Skydiving/Parachuting Questionnaire (For use in AL)
+Arizona	6404_AZ.pdf	HIV Testing Informed Consent
+Arizona	6415	USA PATRIOT Act Compliance Form Per federal regulations, complete for each Annuitant/Insured; and if different than the Annuitant/Insured, for each owner, payor and assignee. This form is also required on all beneficiaries when a claim is filed. This form needs to be completed for an individual owners when requesting an ownership change or when adding an owner. An original copy is required. Please return via mail.
+Arizona	6420-C.pdf	Life Insurance Application For use in AL Effective 5/13
+Arizona	6437	Trustee Certification
+Arizona	6482_AZ.pdf	Verification of Existing Life Insurance or Annuities This form may be used for annuity product sales in some states. This form may be used with Form 6605 in some states.
+Arizona	6486_STD	Important Notice: Replacement of Life Insurance or Annuities
+Arizona	6491	Application Submittal Checklist
+Arizona	6500.pdf	Military Supplement to Application
+Arizona	6501.pdf	Application Overflow Page
+Arizona	9302	Assignment of Life Insurance Policy as Collateral Use to assign your policy as collateral. Form can be used in all states.
+Arizona	Form	Tax Treatment of "Modified Endowment Contract" (Inforce)
+Arizona	Form	FATCA Form W-8BEN-E Foreign Account Tax Compliance Act - form for use with non-U.S. entities
+Arizona	Form	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Arizona	1597-I	FATCA Form W-8ECI Foreign Account Tax Compliance Act - form for use with non-US entities

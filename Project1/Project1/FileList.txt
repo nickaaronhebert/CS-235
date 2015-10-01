@@ -1,0 +1,52 @@
+Arkansas	6501	Application Overflow Page
+Arkansas	 6491	Application Submittal Checklist
+Arkansas	 9302	Assignment of Life Insurance Policy as Collateral Use to assign your policy as collateral. Form can be used in all states.
+Arkansas	 4030	Authorization Agreement for Direct Payments (ACH Debits) Use to authorize direct payments from the account of your choice to make a purchase or premium payment on your policy/contract. This form may be returned via fax.
+Arkansas	 6256-A&B-AR	Aviation/Racing Questionnaire For use in AR
+Arkansas	 6257-A&B-AR	Ballooning/Hang Gliding/Ultralight Flying Questionnaire & Skydiving/Parachuting Quest. For use in AR
+Arkansas	 6230	Companion Case Transmittal
+Arkansas	 3068	Corporate Authorization Form and Idemnification Agreement
+Arkansas	 W-8BEN	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Arkansas	 W-8BEN-E	FATCA Form W-8BEN-E Foreign Account Tax Compliance Act - form for use with non-U.S. entities
+Arkansas	 W-8ECI	FATCA Form W-8ECI Foreign Account Tax Compliance Act - form for use with non-US entities
+Arkansas	 6404-NIH	HIV Infection and AIDS: An Overview
+Arkansas	 6404-AR	HIV Testing Informed Consent
+Arkansas	 6486-STD	Important Notice: Replacement of Life Insurance or Annuities
+Arkansas	 6420-AR	Life Insurance Application For use in AR Effective 5/13
+Arkansas	 1597-I	Life Insurance Buyer's Guide For use in all states except AL, NM, & UT
+Arkansas	 2946-D	Lifetime Advantage Acceptance & Disclosure Statement
+Arkansas	 6237	List Billing Transmittal
+Arkansas	 6500	Military Supplement to Application
+Arkansas	 6241	Questionnaire: Foreign Residence and Travel
+Arkansas	 6484-AR	Replacement (Comparative Information) Form
+Arkansas	 6133-A&B-AR	Scuba/Skin Diving/Mountain Climbing Application- (For use in AR)
+Arkansas	 3066	Surrender Request Form (Internal Replacement) Form 3066
+Arkansas	 4035-TIA	Temporary Life Insurance Agreement - Electronic Debit Authorization to Bind Coverage Form 4035-TIA 8/13
+Arkansas	 6437	Trustee Certification
+Arkansas	 6415	USA PATRIOT Act Compliance Form Per federal regulations, complete for each Annuitant/Insured; and if different than the Annuitant/Insured, for each owner, payor and assignee. This form is also required on all beneficiaries when a claim is filed. This form needs to be completed for an individual owners when requesting an ownership change or when adding an owner. An original copy is required. Please return via mail.
+Arkansas	 6482-STD	Verification of Existing Life Insurance or Annuities This form may be used for annuity product sales in some states. This form may be used with Form 6605 in some states.
+Arizona	 6501	Application Overflow Page
+Arizona	 6491	Application Submittal Checklist
+Arizona	 9302	Assignment of Life Insurance Policy as Collateral Use to assign your policy as collateral. Form can be used in all states.
+Arizona	 4030	Authorization Agreement for Direct Payments (ACH Debits) Use to authorize direct payments from the account of your choice to make a purchase or premium payment on your policy/contract. This form may be returned via fax.
+Arizona	 6256 A&B-C	Aviation/Racing Questionnaire (For use in AZ, KS, NV, VA, WA)
+Arizona	 6257-A&B-C	Ballooning/Hang Gliding/Ultralight Flying Questionnaire & Skydiving/Parachuting Question For use in AZ, KS, NV, VA, WA
+Arizona	 6230	Companion Case Transmittal
+Arizona	 3068	Corporate Authorization Form and Idemnification Agreement
+Arizona	 W-8BEN	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Arizona	 W-8BEN-E	FATCA Form W-8BEN-E Foreign Account Tax Compliance Act - form for use with non-U.S. entities
+Arizona	 W-8ECI	FATCA Form W-8ECI Foreign Account Tax Compliance Act - form for use with non-US entities
+Arizona	 6404-AZ	HIV Testing Informed Consent
+Arizona	 6486-STD	Important Notice: Replacement of Life Insurance or Annuities
+Arizona	 6420-C	Life Insurance Application For use in AZ and IA Effective 5/13
+Arizona	 1597-I	Life Insurance Buyer's Guide For use in all states except AL, NM, & UT
+Arizona	 2946-D	Lifetime Advantage Acceptance & Disclosure Statement
+Arizona	 6237	List Billing Transmittal
+Arizona	 6500	Military Supplement to Application
+Arizona	 6241	Questionnaire: Foreign Residence and Travel
+Arizona	 6133-A&B-C	Scuba/Skin Diving/Mountain Climbing Application (For use in AZ, KS, NV, VA, WA)
+Arizona	 3066	Surrender Request Form (Internal Replacement) Form 3066
+Arizona	 4035-TIA	Temporary Life Insurance Agreement - Electronic Debit Authorization to Bind Coverage Form 4035-TIA 8/13
+Arizona	 6437	Trustee Certification
+Arizona	 6415	USA PATRIOT Act Compliance Form Per federal regulations, complete for each Annuitant/Insured; and if different than the Annuitant/Insured, for each owner, payor and assignee. This form is also required on all beneficiaries when a claim is filed. This form needs to be completed for an individual owners when requesting an ownership change or when adding an owner. An original copy is required. Please return via mail.
+Arizona	 6482-AZ	Verification of Existing Life Insurance or Annuities For use in AZ

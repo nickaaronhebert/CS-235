@@ -1,0 +1,99 @@
+Term Alabama1597-NI.pdfTRUE FALSE TRUE FALSE TRUE 00	Life Insurance Buyer's Guide
+Term Alabama2946_D.pdfTRUE FALSE TRUE FALSE TRUE 11	Lifetime Advantage Acceptance & Disclosure Statement
+Term Alabama3066%208_14.pdfTRUE FALSE TRUE FALSE TRUE 22	Surrender Request Form (Internal Replacement) Form 3066
+Term Alabama3066%208_14.pdfTRUE FALSE TRUE FALSE TRUE 33	Surrender Request Form (Internal Replacement) Form 3066
+Term Alabama3068%209_14fix.pdfTRUE FALSE TRUE FALSE TRUE 44	Corporate Authorization Form and Idemnification Agreement
+Term Alabama3068%209_14fix.pdfTRUE FALSE TRUE FALSE TRUE 55	Corporate Authorization Form and Idemnification Agreement
+Term Alabama4030%20Rev.%20712.pdfTRUE FALSE TRUE FALSE TRUE 66	Authorization Agreement for Direct Payments (ACH Debits) Use to authorize direct payments from the account of your choice to make a purchase or premium payment on your policy/contract. This form may be returned via fax.
+Term Alabama4030%20Rev.%20712.pdfTRUE FALSE TRUE FALSE TRUE 77	Authorization Agreement for Direct Payments (ACH Debits) Use to authorize direct payments from the account of your choice to make a purchase or premium payment on your policy/contract. This form may be returned via fax.
+Term Alabama4035-TIA%208_13.pdfTRUE FALSE TRUE FALSE TRUE 88	Temporary Life Insurance Agreement - Electronic Debit Authorization to Bind Coverage Form 4035-TIA 8/13
+Term Alabama4035-TIA%208_13.pdfTRUE FALSE TRUE FALSE TRUE 99	Temporary Life Insurance Agreement - Electronic Debit Authorization to Bind Coverage Form 4035-TIA 8/13
+Term Alabama6230.pdfTRUE FALSE TRUE FALSE TRUE 1010	Companion Case Transmittal
+Term Alabama6230.pdfTRUE FALSE TRUE FALSE TRUE 1111	Companion Case Transmittal
+Term Alabama6237%206_12.pdfTRUE FALSE TRUE FALSE TRUE 1212	List Billing Transmittal
+Term Alabama6237%206_12.pdfTRUE FALSE TRUE FALSE TRUE 1313	List Billing Transmittal
+Term Alabama6241.pdfTRUE FALSE TRUE FALSE TRUE 1414	Questionnaire: Foreign Residence and Travel
+Term Alabama6241.pdfTRUE FALSE TRUE FALSE TRUE 1515	Questionnaire: Foreign Residence and Travel
+Term Alabama6256-A&B-AL.pdfTRUE FALSE TRUE FALSE TRUE 1616	Aviation/Racing Questionnaire (For use in AL)
+Term Alabama6256-A&B-AL.pdfTRUE FALSE TRUE FALSE TRUE 1717	Aviation/Racing Questionnaire (For use in AL)
+Term Alabama6257%20A&B-AL.pdfTRUE FALSE TRUE FALSE TRUE 1818	Ballooning/Hang Gliding/Ultralight/Skydiving/Parachuting Questionnaire (For use in AL)
+Term Alabama6404.pdfTRUE FALSE TRUE FALSE TRUE 1919	HIV Testing Informed Consent
+Term Alabama6415%20Rev.%20614.pdfTRUE FALSE TRUE FALSE TRUE 2020	USA PATRIOT Act Compliance Form Per federal regulations, complete for each Annuitant/Insured; and if different than the Annuitant/Insured, for each owner, payor and assignee. This form is also required on all beneficiaries when a claim is filed. This form needs to be completed for an individual owners when requesting an ownership change or when adding an owner. An original copy is required. Please return via mail.
+Term Alabama6415%20Rev.%20614.pdfTRUE FALSE TRUE FALSE TRUE 2121	USA PATRIOT Act Compliance Form Per federal regulations, complete for each Annuitant/Insured; and if different than the Annuitant/Insured, for each owner, payor and assignee. This form is also required on all beneficiaries when a claim is filed. This form needs to be completed for an individual owners when requesting an ownership change or when adding an owner. An original copy is required. Please return via mail.
+Term Alabama6420-AL.pdfTRUE FALSE TRUE FALSE TRUE 2222	Life Insurance Application For use in AL Effective 5/13
+Term Alabama6437%2010_12.pdfTRUE FALSE TRUE FALSE TRUE 2323	Trustee Certification
+Term Alabama6437%2010_12.pdfTRUE FALSE TRUE FALSE TRUE 2424	Trustee Certification
+Term Alabama6482-STD%20REV%2003%2010%20eff%201%2015.pdfTRUE FALSE TRUE FALSE TRUE 2525	Verification of Existing Life Insurance or Annuities This form may be used for annuity product sales in some states. This form may be used with Form 6605 in some states.
+Term Alabama6486_STD%20.pdfTRUE FALSE TRUE FALSE TRUE 2626	Important Notice: Replacement of Life Insurance or Annuities
+Term Alabama6491%204_13.pdfTRUE FALSE TRUE FALSE TRUE 2727	Application Submittal Checklist
+Term Alabama6491%204_13.pdfTRUE FALSE TRUE FALSE TRUE 2828	Application Submittal Checklist
+Term Alabama6500.pdfTRUE FALSE TRUE FALSE TRUE 2929	Military Supplement to Application
+Term Alabama6500.pdfTRUE FALSE TRUE FALSE TRUE 3030	Military Supplement to Application
+Term Alabama6501.pdfTRUE FALSE TRUE FALSE TRUE 3131	Application Overflow Page
+Term Alabama6501.pdfTRUE FALSE TRUE FALSE TRUE 3232	Application Overflow Page
+Term Alabama9302%201_12.pdfTRUE FALSE TRUE FALSE TRUE 3333	Assignment of Life Insurance Policy as Collateral Use to assign your policy as collateral. Form can be used in all states.
+Term Alabama9302%201_12.pdfTRUE FALSE TRUE FALSE TRUE 3434	Assignment of Life Insurance Policy as Collateral Use to assign your policy as collateral. Form can be used in all states.
+Term Alabama9334.pdfTRUE FALSE TRUE FALSE TRUE 3535	Tax Treatment of "Modified Endowment Contract" (Inforce)
+Term AlabamaForm%20W-8BEN-E.pdfTRUE FALSE TRUE FALSE TRUE 3636	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term AlabamaForm%20W-8BEN-E.pdfTRUE FALSE TRUE FALSE TRUE 3737	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term AlabamaForm%20W-8BEN-E.pdfTRUE FALSE TRUE FALSE TRUE 3838	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term AlabamaForm%20W-8BEN-E.pdfTRUE FALSE TRUE FALSE TRUE 3939	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term AlabamaForm%20W-8BEN-E.pdfTRUE FALSE TRUE FALSE TRUE 4040	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term AlabamaForm%20W-8BEN.pdfTRUE FALSE TRUE FALSE TRUE 4141	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term AlabamaForm%20W-8BEN.pdfTRUE FALSE TRUE FALSE TRUE 4242	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term AlabamaForm%20W-8BEN.pdfTRUE FALSE TRUE FALSE TRUE 4343	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term AlabamaForm%20W-8BEN.pdfTRUE FALSE TRUE FALSE TRUE 4444	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term AlabamaForm%20W-8ECI.pdfTRUE FALSE TRUE FALSE TRUE 4545	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term AlabamaForm%20W-8ECI.pdfTRUE FALSE TRUE FALSE TRUE 4646	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term AlabamaForm%20W-8ECI.pdfTRUE FALSE TRUE FALSE TRUE 4747	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term AlabamaForm%20W-8ECI.pdfTRUE FALSE TRUE FALSE TRUE 4848	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term Arizona1597-I%2011_04x.pdfTRUE FALSE TRUE FALSE TRUE 4949	FATCA Form W-8ECI Foreign Account Tax Compliance Act - form for use with non-US entities
+Term Arizona1597-I%2011_04x.pdfTRUE FALSE TRUE FALSE TRUE 5050	FATCA Form W-8ECI Foreign Account Tax Compliance Act - form for use with non-US entities
+Term Arizona2946_D.pdfTRUE FALSE TRUE FALSE TRUE 5151	Lifetime Advantage Acceptance & Disclosure Statement
+Term Arizona3066%208_14.pdfTRUE FALSE TRUE FALSE TRUE 5252	Surrender Request Form (Internal Replacement) Form 3066
+Term Arizona3066%208_14.pdfTRUE FALSE TRUE FALSE TRUE 5353	Surrender Request Form (Internal Replacement) Form 3066
+Term Arizona3068%209_14fix.pdfTRUE FALSE TRUE FALSE TRUE 5454	Corporate Authorization Form and Idemnification Agreement
+Term Arizona3068%209_14fix.pdfTRUE FALSE TRUE FALSE TRUE 5555	Corporate Authorization Form and Idemnification Agreement
+Term Arizona4030%20Rev.%20712.pdfTRUE FALSE TRUE FALSE TRUE 5656	Authorization Agreement for Direct Payments (ACH Debits) Use to authorize direct payments from the account of your choice to make a purchase or premium payment on your policy/contract. This form may be returned via fax.
+Term Arizona4030%20Rev.%20712.pdfTRUE FALSE TRUE FALSE TRUE 5757	Authorization Agreement for Direct Payments (ACH Debits) Use to authorize direct payments from the account of your choice to make a purchase or premium payment on your policy/contract. This form may be returned via fax.
+Term Arizona4035-TIA%208_13.pdfTRUE FALSE TRUE FALSE TRUE 5858	Temporary Life Insurance Agreement - Electronic Debit Authorization to Bind Coverage Form 4035-TIA 8/13
+Term Arizona4035-TIA%208_13.pdfTRUE FALSE TRUE FALSE TRUE 5959	Temporary Life Insurance Agreement - Electronic Debit Authorization to Bind Coverage Form 4035-TIA 8/13
+Term Arizona6133-A_B_C.pdfTRUE FALSE TRUE FALSE TRUE 6060	Scuba/Skin Diving/Mountain Climbing Application (For use in AL)
+Term Arizona6230.pdfTRUE FALSE TRUE FALSE TRUE 6161	Companion Case Transmittal
+Term Arizona6230.pdfTRUE FALSE TRUE FALSE TRUE 6262	Companion Case Transmittal
+Term Arizona6237%206_12.pdfTRUE FALSE TRUE FALSE TRUE 6363	List Billing Transmittal
+Term Arizona6237%206_12.pdfTRUE FALSE TRUE FALSE TRUE 6464	List Billing Transmittal
+Term Arizona6241.pdfTRUE FALSE TRUE FALSE TRUE 6565	Questionnaire: Foreign Residence and Travel
+Term Arizona6241.pdfTRUE FALSE TRUE FALSE TRUE 6666	Questionnaire: Foreign Residence and Travel
+Term Arizona6256%20A&B_C.pdfTRUE FALSE TRUE FALSE TRUE 6767	Aviation/Racing Questionnaire (For use in AL)
+Term Arizona6257%20A&B-C.pdfTRUE FALSE TRUE FALSE TRUE 6868	Ballooning/Hang Gliding/Ultralight/Skydiving/Parachuting Questionnaire (For use in AL)
+Term Arizona6404_AZ.pdfTRUE FALSE TRUE FALSE TRUE 6969	HIV Testing Informed Consent
+Term Arizona6404_AZ.pdfTRUE FALSE TRUE FALSE TRUE 7070	HIV Testing Informed Consent
+Term Arizona6415%20Rev.%20614.pdfTRUE FALSE TRUE FALSE TRUE 7171	USA PATRIOT Act Compliance Form Per federal regulations, complete for each Annuitant/Insured; and if different than the Annuitant/Insured, for each owner, payor and assignee. This form is also required on all beneficiaries when a claim is filed. This form needs to be completed for an individual owners when requesting an ownership change or when adding an owner. An original copy is required. Please return via mail.
+Term Arizona6415%20Rev.%20614.pdfTRUE FALSE TRUE FALSE TRUE 7272	USA PATRIOT Act Compliance Form Per federal regulations, complete for each Annuitant/Insured; and if different than the Annuitant/Insured, for each owner, payor and assignee. This form is also required on all beneficiaries when a claim is filed. This form needs to be completed for an individual owners when requesting an ownership change or when adding an owner. An original copy is required. Please return via mail.
+Term Arizona6420-C.pdfTRUE FALSE TRUE FALSE TRUE 7373	Life Insurance Application For use in AL Effective 5/13
+Term Arizona6437%2010_12.pdfTRUE FALSE TRUE FALSE TRUE 7474	Trustee Certification
+Term Arizona6437%2010_12.pdfTRUE FALSE TRUE FALSE TRUE 7575	Trustee Certification
+Term Arizona6482_AZ.pdfTRUE FALSE TRUE FALSE TRUE 7676	Verification of Existing Life Insurance or Annuities This form may be used for annuity product sales in some states. This form may be used with Form 6605 in some states.
+Term Arizona6486_STD%20.pdfTRUE FALSE TRUE FALSE TRUE 7777	Important Notice: Replacement of Life Insurance or Annuities
+Term Arizona6491%204_13.pdfTRUE FALSE TRUE FALSE TRUE 7878	Application Submittal Checklist
+Term Arizona6491%204_13.pdfTRUE FALSE TRUE FALSE TRUE 7979	Application Submittal Checklist
+Term Arizona6500.pdfTRUE FALSE TRUE FALSE TRUE 8080	Military Supplement to Application
+Term Arizona6500.pdfTRUE FALSE TRUE FALSE TRUE 8181	Military Supplement to Application
+Term Arizona6501.pdfTRUE FALSE TRUE FALSE TRUE 8282	Application Overflow Page
+Term Arizona6501.pdfTRUE FALSE TRUE FALSE TRUE 8383	Application Overflow Page
+Term Arizona9302%201_12.pdfTRUE FALSE TRUE FALSE TRUE 8484	Assignment of Life Insurance Policy as Collateral Use to assign your policy as collateral. Form can be used in all states.
+Term Arizona9302%201_12.pdfTRUE FALSE TRUE FALSE TRUE 8585	Assignment of Life Insurance Policy as Collateral Use to assign your policy as collateral. Form can be used in all states.
+Term ArizonaForm%20W-8BEN-E.pdfTRUE FALSE TRUE FALSE TRUE 8686	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term ArizonaForm%20W-8BEN-E.pdfTRUE FALSE TRUE FALSE TRUE 8787	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term ArizonaForm%20W-8BEN-E.pdfTRUE FALSE TRUE FALSE TRUE 8888	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term ArizonaForm%20W-8BEN-E.pdfTRUE FALSE TRUE FALSE TRUE 8989	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term ArizonaForm%20W-8BEN-E.pdfTRUE FALSE TRUE FALSE TRUE 9090	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term ArizonaForm%20W-8BEN.pdfTRUE FALSE TRUE FALSE TRUE 9191	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term ArizonaForm%20W-8BEN.pdfTRUE FALSE TRUE FALSE TRUE 9292	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term ArizonaForm%20W-8BEN.pdfTRUE FALSE TRUE FALSE TRUE 9393	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term ArizonaForm%20W-8BEN.pdfTRUE FALSE TRUE FALSE TRUE 9494	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term ArizonaForm%20W-8ECI.pdfTRUE FALSE TRUE FALSE TRUE 9595	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term ArizonaForm%20W-8ECI.pdfTRUE FALSE TRUE FALSE TRUE 9696	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term ArizonaForm%20W-8ECI.pdfTRUE FALSE TRUE FALSE TRUE 9797	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
+Term ArizonaForm%20W-8ECI.pdfTRUE FALSE TRUE FALSE TRUE 9898	FATCA Form W-8BEN Foreign Account Tax Compliance Act - form for use with non-U.S. individuals
