@@ -1,5 +1,6 @@
 #pragma once
 #include <string>
+#include <iostream>
 #include "LinkedListInterface.h"
 
 using namespace std;
@@ -112,7 +113,7 @@ public:
 			traversing_node->next = newNode;
 			return;
 		}
-		else if (traversing_node = NULL)
+		else if (traversing_node == NULL)
 		{
 			//This could be non--functional.
 			traversing_node = newNode;
@@ -194,7 +195,7 @@ public:
 	*/
 	T at(int index)
 	{
-		//if (index < 0 || index >= size()) { throw out_of_range; };;
+		if (index < 0 || index >= size()) { throw out_of_range("fdsafds"); };;
 		int counter = 0;
 		Node* traversing_node = head;
 		while (counter < index)
@@ -202,6 +203,7 @@ public:
 			counter++;
 			traversing_node = traversing_node->next;
 		}
+		cout << "The memory address of this pointer is: " << traversing_node << endl;
 		return traversing_node->data;
 	}
 	/*
@@ -212,6 +214,7 @@ public:
 	int size()
 	{
 		Node* traversing_node = head;
+		list_size = 0;
 		while (traversing_node != NULL)
 		{
 			list_size++;

@@ -1,5 +1,5 @@
 #include "Factory.h"
-
+#include "LinkedList.h"
 //You may add #include statements here
 
 /*
@@ -14,9 +14,9 @@
 
 	Example: If you made a class called "LinkedList", you might say, "return new LinkedList<int>();".
 */
-LinkedListInterface<int> * Factory::getLinkedListInt()
+LinkedListInterface<int>* Factory::getLinkedListInt()
 {
-	return NULL;//Modify this line
+	return new LinkedList<int>();
 }
 
 /*
@@ -29,5 +29,5 @@ LinkedListInterface<int> * Factory::getLinkedListInt()
 */
 LinkedListInterface<string>* Factory::getLinkedListString()
 {
-	return NULL;//Modify this line
+	return new LinkedList<string>();
 }
