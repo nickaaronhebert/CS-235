@@ -1,6 +1,5 @@
 #pragma once
 #include <string>
-#include <iostream>
 #include "LinkedListInterface.h"
 
 using namespace std;
@@ -8,7 +7,7 @@ using namespace std;
 template<class T>
 class LinkedList : public LinkedListInterface <T>
 {
-private: 
+private:
 	struct Node
 	{
 		T data;
@@ -26,7 +25,7 @@ public:
 	Node* findNode(T value)
 	{
 		Node* traversing_node = head;
-		while (traversing_node->data != value)
+		while (traversing_node->data != value )
 		{
 			traversing_node = traversing_node->next;
 		}
@@ -35,13 +34,13 @@ public:
 			return traversing_node;
 		}
 		return NULL;
-		
+
 	}
 
 	int DuplicateCheck(T value)
 	{
 		Node* traversing_node = head;
-		while (traversing_node!=NULL)
+		while (traversing_node != NULL)
 		{
 			if (value == traversing_node->data)
 			{
@@ -53,9 +52,7 @@ public:
 	}
 	/*
 	insertHead
-
 	A node with the given value should be inserted at the beginning of the list.
-
 	Do not allow duplicate values in the list.
 	*/
 	void insertHead(T value)
@@ -85,9 +82,7 @@ public:
 
 	/*
 	insertTail
-
 	A node with the given value should be inserted at the end of the list.
-
 	Do not allow duplicate values in the list.
 	*/
 	void insertTail(T value)
@@ -115,24 +110,24 @@ public:
 		}
 		else if (traversing_node == NULL)
 		{
-			//This could be non--functional.
-			traversing_node = newNode;
+			head = newNode;
+			newNode = traversing_node;
+			
 		}
 
 	}
 
 	/*
 	insertAfter
-
 	A node with the given value should be inserted immediately after the
 	node whose value is equal to insertionNode.
-
 	A node should only be added if the node whose value is equal to
 	insertionNode is in the list. Do not allow duplicate values in the list.
 	*/
 	void insertAfter(T value, T insertionNode)
 	{
 		DuplicateCheck(value);
+		if (found_status == FOUND) return;
 		Node* found_node = findNode(insertionNode);
 
 		if (found_node != NULL)
@@ -146,9 +141,7 @@ public:
 
 	/*
 	remove
-
 	The node with the given value should be removed from the list.
-
 	The list may or may not include a node with the given value.
 	*/
 	void remove(T value)
@@ -156,8 +149,15 @@ public:
 		DuplicateCheck(value);
 		if (found_status == NOTFOUND) { return; }
 		Node* traversing_node = head;
-		while (traversing_node != NULL)
+		if (traversing_node->data == value)
 		{
+			head = traversing_node->next;
+			delete traversing_node;
+			return;
+		}
+		while (traversing_node != NULL && traversing_node->next != NULL)
+		{
+
 			if (traversing_node->next->data == value)
 			{
 				Node * removeNode = traversing_node->next;
@@ -167,11 +167,11 @@ public:
 			}
 			traversing_node = traversing_node->next;
 		}
+		clear();
 	}
 
 	/*
 	clear
-
 	Remove all nodes from the list.
 	*/
 	void clear()
@@ -187,15 +187,13 @@ public:
 
 	/*
 	at
-
 	Returns the value of the node at the given index. The list begins at
 	index 0.
-
 	If the given index is out of range of the list, throw an out of range exception.
 	*/
 	T at(int index)
 	{
-		if (index < 0 || index >= size()) { throw out_of_range("fdsafds"); };;
+		//if (index < 0 || index >= size()) { throw out_of_range; };;
 		int counter = 0;
 		Node* traversing_node = head;
 		while (counter < index)
@@ -203,18 +201,15 @@ public:
 			counter++;
 			traversing_node = traversing_node->next;
 		}
-		cout << "The memory address of this pointer is: " << traversing_node << endl;
 		return traversing_node->data;
 	}
 	/*
 	size
-
 	Returns the number of nodes in the list.
 	*/
 	int size()
 	{
 		Node* traversing_node = head;
-		list_size = 0;
 		while (traversing_node != NULL)
 		{
 			list_size++;
@@ -222,6 +217,5 @@ public:
 		}
 		return list_size;
 	}
-
+	~LinkedList() { clear(); }
 };
-
